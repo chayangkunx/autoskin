@@ -1,17 +1,17 @@
 # AutoSkin Generator
 
-🎮 เครื่องมือสร้างไฟล์ skin อัตโนมัติสำหรับ ItemSkins Plugin (Minecraft Server)
+🎮 เครื่องมือสร้างไฟล์ skin อัตโนมัติสำหรับ ItemSkins Plugin & Mmoitem plugin (Minecraft Server)
 
 ## 📋 คุณสมบัติ
 
-- สร้างไฟล์ skin จาก config ของ PhoenixMechaSovereign
+- สร้างไฟล์ skin จาก config ของ Itemsadder
 - รองรับการอ่าน `items_ids_cache.yml` สำหรับหา `model_id`
 - สร้างไฟล์ `.yml` พร้อม permission, preview-skin, และ display items
 - รองรับอาวุธหลายประเภท (axe, sword, bow, fishing_rod, dagger, greatsword, rapier และอื่นๆ)
 
 ## 🔧 ความต้องการ
 
-- Python 3.7+
+- Python 3.13+
 - PyYAML
 
 ## 📦 การติดตั้ง
@@ -81,9 +81,8 @@ unavailable-item:
   # ...
 ```
 
-## 🤝 การมีส่วนร่วม
-
-ยินดีรับ Pull Requests! สำหรับการเปลี่ยนแปลงครั้งใหญ่ กรุณาเปิด Issue ก่อนเพื่อหารือ
+## 🤝 Discord
+[https://discord.gg/SPYqnfkcQR]
 
 ## 📄 License
 
